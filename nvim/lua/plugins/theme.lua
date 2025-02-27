@@ -1,9 +1,11 @@
 return {
-    "tiagovla/tokyodark.nvim",
+    "navarasu/onedark.nvim",
     opts = {},
-    config = function(_, opts)
-        require("tokyodark").setup(opts)
-        vim.cmd([[colorscheme tokyodark]])
+    config = function(_)
+        require("onedark").setup({
+            style = 'darker'
+        })
+        vim.cmd([[colorscheme onedark]])
     end,
 }
 
