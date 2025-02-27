@@ -7,4 +7,7 @@ vim.cmd("set relativenumber")
 vim.g.mapleader = " "
 vim.g.maplocalleader = "\\"
 
-
+vim.opt.filetype = "on"
+vim.opt.smartindent = true
+vim.opt.autoindent = true
+vim.opt.formatoptions:append("cro")
