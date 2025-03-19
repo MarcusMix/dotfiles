@@ -1,9 +1,16 @@
-**This repo is supposed to used as config by NvChad users!**
+## Instalação NvChad
 
-- The main nvchad repo (NvChad/NvChad) is used as a plugin by this repo.
-- So you just import its modules , like `require "nvchad.options" , require "nvchad.mappings"`
-- So you can delete the .git from this repo ( when you clone it locally ) or fork it :)
+```
+rm -rf ~/.var/app/io.neovim.nvim/config/nvim
+git clone https://github.com/MarcusMix/dotfiles ~/.var/app/io.neovim.nvim/config/nvim
+```
 
-# Credits
+## Criar alias no bash ou zsh
 
-1) Lazyvim starter https://github.com/LazyVim/starter as nvchad's starter was inspired by Lazyvim's . It made a lot of things easier!
+```
+vim ~/.bashrc
+alias nvchad='flatpak run io.neovim.nvim'
+```
+
+## Seja feliz
+Após isso, rodando *nvchad* no terminal, irá funcionar.
