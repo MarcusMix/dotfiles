@@ -23,19 +23,26 @@ font pango: Cascadia Code Nerd Font 12
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id picom
-#exec --no-startup-id picom --config ~/.config/picom.conf
+exec --no-startup-id picom --config ~/.config/picom.conf
+exec --no-startup-id xinput set-prop 9 "libinput Natural Scrolling Enabled" 1
+
 
 exec_always --no-startup-id killall polybar
+exec_always --no-startup-id killall flameshot
 exec_always --no-startup-id polybar
 exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
-exec_always feh --bg-scale ~/.config/backgrounds/city.jpg
+exec_always feh --bg-scale ~/.config/backgrounds/sunset-green.jpg
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
 
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
-exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork -i ~/.config/backgrounds/lofiwallpaper.png
+#exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork -i ~/.config/backgrounds/sunset-green.jpg
+
+
+exec_always --no-startup-id gsettings set org.gnome.desktop.interface icon-theme "Hatter-dark"
+
 
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
@@ -44,7 +51,7 @@ exec --no-startup-id nm-applet
 
 # exec imwheel -kill
 # exec numlockx
-exec xfce4-power-manager --power manager
+#exec xfce4-power-manager --power manager
 #exec volumeicon
 # exec nitrogen --restore
 #exec xrandr -s 1360x768 
@@ -61,7 +68,7 @@ bindsym $mod+b exec code
 bindsym $mod+Control+w exec gnome-weather
 bindsym $mod+Control+c exec gnome-clocks
 bindsym $mod+Control+o exec libreoffice
-bindsym $mod+l exec i3lock -i ~/.config/backgrounds/lofiwallpaper.png
+bindsym $mod+l exec i3lock -i ~/.config/backgrounds/sunset.png
 
 # Use pactl to adjust volume in PulseAudio.
 # Define o comando de atualização (caso necessário)
