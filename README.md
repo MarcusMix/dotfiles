@@ -7,7 +7,7 @@
 
 <img src="https://i.imgur.com/tHNhxgd.png" alt="i3 desktop"/>
 
-- linux minthttps://i.imgur.com/tHNhxgd.png
+- linux mint
 - i3
 - polybar
 - ulauncher
