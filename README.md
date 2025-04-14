@@ -1,88 +1,89 @@
+# 🚀 Dotfiles
 
-# Dotfiles
+![GitHub stars](https://img.shields.io/github/stars/MarcusMix/dotfiles?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MarcusMix/dotfiles?style=social)
+![GitHub license](https://img.shields.io/github/license/MarcusMix/dotfiles?style=flat-square)
 
-Arquivos de configurações, para facilitar a minha e a sua vida.
+> Minha coleção pessoal de arquivos de configuração para criar o ambiente de desenvolvimento perfeito. Projetados para maximizar a produtividade e proporcionar uma experiência visual incrível.
 
+<div align="center">
+  <img src="https://i.imgur.com/tc7aYc4.png" alt="Desktop Screenshot" width="800px"/>
+</div>
 
+## 📋 Conteúdo
 
-## Softwares com configurações
+- [Visão Geral](#-visão-geral)
+- [Previews](#-previews)
+- [Requisitos](#-requisitos)
+- [Instalação](#-instalação)
+- [Configurações Disponíveis](#-configurações-disponíveis)
+- [Personalização](#-personalização)
+- [Atalhos de Teclado](#-atalhos-de-teclado)
+- [Temas](#-temas)
+- [Perguntas Frequentes](#-perguntas-frequentes)
+- [Contribuições](#-contribuições)
+- [Licença](#-licença)
 
-### `Hyprland`
-Gerenciador de janelas (TWM) leve e altamente personalizável para Linux, focado em desempenho e estilo. 
+## 🔍 Visão Geral
 
-Ele oferece suporte a Wayland, auto-tiling e efeitos visuais elegantes. Requer conhecimento técnico para configuração.
+Esta coleção de dotfiles foi criada para proporcionar um ambiente de desenvolvimento Linux elegante, eficiente e altamente produtivo. Configurações cuidadosamente ajustadas para gerenciadores de janelas, terminais, editores e muito mais!
 
-### `i3 TWM`
-Gerenciador de janelas minimalista que utiliza o conceito de tiling para organizar as janelas. 
+**Ambiente atual:**
+- Sistema: Linux Mint
+- WM: i3/Hyprland
+- Terminal: Kitty/Warp
+- Editor: Neovim (NvChad)
+- Status Bar: Polybar/Waybar
+- Lançador: ULauncher
+- Compositor: Picom
 
-Ele é conhecido por sua eficiência e flexibilidade, sendo popular entre usuários que preferem um ambiente de trabalho altamente personalizável.
+## 👀 Previews
 
-### `Kitty`
-Emulador de terminal moderno e altamente personalizável. 
+<details>
+<summary>🖥️ Desktop i3 (Clique para expandir)</summary>
+<div align="center">
+  <img src="https://i.imgur.com/tc7aYc4.png" alt="i3 Desktop Screenshot" width="800px"/>
+  <img src="https://i.imgur.com/tHNhxgd.png" alt="i3 Desktop Screenshot 2" width="800px"/>
+</div>
+</details>
 
-Ele oferece suporte a OpenGL para renderização rápida e suave, além de recursos como múltiplas guias e janelas.
+<details>
+<summary>🖥️ Desktop Hyprland (Clique para expandir)</summary>
+<div align="center">
+  <p>Capturas de tela serão adicionadas em breve!</p>
+</div>
+</details>
 
-### `NvChad`
-É uma configuração personalizada para o Neovim, focada em tornar o editor de texto mais acessível e visualmente atraente. 
+<details>
+<summary>📝 NvChad (Clique para expandir)</summary>
+<div align="center">
+  <p>Capturas de tela serão adicionadas em breve!</p>
+</div>
+</details>
 
-Ele inclui várias funcionalidades e plugins para melhorar a produtividade.
+## 📦 Requisitos
 
-### `Polybar`
-Barra de status personalizável que pode ser usada em conjunto com gerenciadores de janelas. 
+- Linux (testado em Linux Mint, mas deve funcionar em qualquer distribuição)
+- Git
+- [GNU Stow](https://www.gnu.org/software/stow/) para gerenciar links simbólicos
+- Aplicativos específicos para cada configuração (listados abaixo)
 
-Ela permite que os usuários exibam informações como CPU, memória, data e hora, além de outros dados personalizados.
+## 💻 Instalação
 
-Compativel com x11.
-
-### `Waybar`
-Barra de status leve e personalizável projetada para o protocolo Wayland. 
-
-Ela oferece suporte a vários módulos para exibir informações como CPU, memória, rede e relógio.
-
-Compativel com Wayland.
-
-### `Picom`
-Compositor de janelas que adiciona efeitos visuais como transparência e sombreamento às janelas. 
-
-Ele é frequentemente usado em conjunto com gerenciadores de janelas para melhorar a aparência do desktop.
-
-### `Warp terminal`
-Terminal moderno e rápido que oferece recursos como autocompletar, busca instantânea e interface minimalista. 
-
-Ele é projetado para ser altamente personalizável e eficiente.
-## Baixar e configurar
-
-Para baixar e configurar os arquivos, abra seu terminal e exercute:
-
+1. Clone este repositório:
 ```bash
-  git clone https://github.com/MarcusMix/dotfiles
+git clone https://github.com/MarcusMix/dotfiles
 ```
 
-#### Entre na pasta
-
+2. Entre na pasta:
 ```bash
   cd dotfiles
 ```
 
-#### Use o GNU/Stow
-Escolha qual configuração você quer usar, e use o GNU/Stow para criar links simbólicos para sua config.
-
-Lembrando que você precisa ter o GNU/Stow instalado previamente e que a configuração atual do software esteja vazia.
-
+3. Use o GNU Stow para criar links simbólicos para a configuração desejada:
 ```bash
-  stow hyprland
+stow hyprland   # Para configuração do Hyprland
+# OU
+stow i3         # Para configuração do i3
+# OU qualquer outra configuração disponível
 ```
-
-
-<img src="https://i.imgur.com/tc7aYc4.png" alt="i3 desktop"/>
-
-
-<img src="https://i.imgur.com/tHNhxgd.png" alt="i3 desktop"/>
-
-- linux mint
-- i3
-- polybar
-- ulauncher
-- picom
-- nvchad
-- warp terminal
