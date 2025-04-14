@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/MarcusMix/dotfiles?style=social)
 ![GitHub license](https://img.shields.io/github/license/MarcusMix/dotfiles?style=flat-square)
 
-> Minha coleção pessoal de arquivos de configuração para criar o ambiente de desenvolvimento perfeito. Projetados para maximizar a produtividade e proporcionar uma experiência visual incrível.
+> Meus arquivos de configurações 🎃
 
 <div align="center">
   <img src="https://i.imgur.com/tc7aYc4.png" alt="Desktop Screenshot" width="800px"/>
