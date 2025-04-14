@@ -2,7 +2,9 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/MarcusMix/dotfiles?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/MarcusMix/dotfiles?style=social)
-![GitHub license](https://img.shields.io/github/license/MarcusMix/dotfiles?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+<!--- ![GitHub license](https://img.shields.io/github/license/MarcusMix/dotfiles?style=flat-square) -->
+
 
 > Meus arquivos de configurações 🎃
 
