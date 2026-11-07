@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "gicalucejo@gmail.com",
+                "Name": "jomada"
+            }
+        ],
+        "Category": "",
+        "Description": "Otto for Plasma",
+        "EnabledByDefault": true,
+        "Id": "Otto",
+        "License": "LGPL",
+        "Name": "Otto",
+        "Version": "2.6",
+        "Website": "https://seduccionlinux.wordpress.com"
+    },
+    "X-Plasma-API": "5.0"
+}

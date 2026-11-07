@@ -1,0 +1,20 @@
+<svg width="22" height="22" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+ </defs>
+ <g id="16-16-kate" transform="translate(-527.84 41.28)">
+  <g transform="translate(465 -557.01)" fill="none">
+   <rect x="40" y="518" width="16" height="16" fill="none"/>
+  </g>
+  <path d="m505.99-27.119v3.12h3.12l7.88-7.88-3.12-3.12zm13.76-7.51c0.33-0.33 0.33-0.85 0-1.18l-1.95-1.95c-0.33-0.33-0.85-0.33-1.18 0l-1.63 1.64 3.12 3.12z" class="ColorScheme-Text" fill="currentColor"/>
+ </g>
+ <g id="22-22-kate">
+  <rect width="22" height="22" opacity="0"/>
+  <g transform="translate(-502 42.007)">
+   <g transform="translate(465 -557.01)" fill="none">
+    <rect x="40" y="518" width="16" height="16" fill="none"/>
+   </g>
+   <path d="m505.99-27.119v3.12h3.12l7.88-7.88-3.12-3.12zm13.76-7.51c0.33-0.33 0.33-0.85 0-1.18l-1.95-1.95c-0.33-0.33-0.85-0.33-1.18 0l-1.63 1.64 3.12 3.12z" class="ColorScheme-Text" fill="currentColor"/>
+  </g>
+ </g>
+</svg>

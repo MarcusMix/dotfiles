@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 50 50"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#4d80f7" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1.06667" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" transform="matrix(0.0548336,0,0,-0.0548338,-0.327859,50.2673)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+opacity="0.5" >
+<path vector-effect="none" fill-rule="evenodd" d="M461.904,4.875 C713.705,4.875 917.829,208.996 917.829,460.8 C917.829,712.596 713.705,916.721 461.904,916.721 C210.105,916.721 5.97917,712.596 5.97917,460.8 C5.97917,208.996 210.105,4.875 461.904,4.875 Z "/>
+</g>
+
+<g fill="#0c65f7" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1.06667" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" transform="matrix(0.0548336,0,0,-0.0548338,-0.327859,50.2673)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+opacity="0.5" >
+<path vector-effect="none" fill-rule="evenodd" d="M461.904,43.65 C692.288,43.65 879.05,230.413 879.05,460.8 C879.05,691.179 692.288,877.946 461.904,877.946 C231.521,877.946 44.7541,691.179 44.7541,460.8 C44.7541,230.413 231.521,43.65 461.904,43.65 Z "/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

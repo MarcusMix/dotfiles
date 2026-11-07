@@ -1,0 +1,53 @@
+# Alacritty — kde-mocha-rice
+# As cores vêm do arquivo importado (catppuccin-SABOR.toml, instalado ao lado).
+[general]
+import = ["~/.config/alacritty/catppuccin.toml"]
+live_config_reload = true
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+dimensions = { columns = 110, lines = 30 }
+padding = { x = 16, y = 14 }
+dynamic_padding = true
+decorations = "Full"
+opacity = 0.88
+blur = true                       # desfoque atrás do terminal (KWin)
+title = "Alacritty"
+dynamic_title = true
+class = { instance = "Alacritty", general = "Alacritty" }
+decorations_theme_variant = "Dark"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+bold = { family = "JetBrainsMono Nerd Font", style = "Bold" }
+italic = { family = "JetBrainsMono Nerd Font", style = "Italic" }
+bold_italic = { family = "JetBrainsMono Nerd Font", style = "Bold Italic" }
+size = 11.5
+offset = { x = 0, y = 3 }         # um pouco mais de espaço entre linhas
+glyph_offset = { x = 0, y = 1 }
+
+[cursor]
+style = { shape = "Beam", blinking = "On" }
+blink_interval = 600
+unfocused_hollow = true
+thickness = 0.18
+
+[selection]
+save_to_clipboard = true
+
+[mouse]
+hide_when_typing = true
+
+[keyboard]
+bindings = [
+  { key = "N", mods = "Control|Shift", action = "CreateNewWindow" },
+  { key = "Plus", mods = "Control", action = "IncreaseFontSize" },
+  { key = "Minus", mods = "Control", action = "DecreaseFontSize" },
+  { key = "Key0", mods = "Control", action = "ResetFontSize" },
+]

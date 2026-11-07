@@ -1,0 +1,8 @@
+[Libinput][2][10][TPPS/2 Elan TrackPoint]
+NaturalScroll=false
+
+[Libinput][2][7][SynPS/2 Synaptics TouchPad]
+NaturalScroll=true
+
+[Mouse]
+cursorTheme=volantes_cursors

@@ -1,0 +1,175 @@
+<svg width="48" height="48" style="" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#232629;
+            stop-color:#232629;
+        }
+        .ColorScheme-Background {
+            color:#eff0f1;
+            stop-color:#eff0f1;
+        }
+        .ColorScheme-Highlight {
+            color:#3daee9;
+            stop-color:#3daee9;
+        }
+        .ColorScheme-ViewText {
+            color:#232629;
+            stop-color:#232629;
+        }
+        .ColorScheme-ViewBackground {
+            color:#fcfcfc;
+            stop-color:#fcfcfc;
+        }
+        .ColorScheme-ViewHover {
+            color:#3daee9;
+            stop-color:#3daee9;
+        }
+        .ColorScheme-ViewFocus{
+            color:#3daee9;
+            stop-color:#3daee9;
+        }
+        .ColorScheme-ButtonText {
+            color:#232629;
+            stop-color:#232629;
+        }
+        .ColorScheme-ButtonBackground {
+            color:#eff0f1;
+            stop-color:#eff0f1;
+        }
+        .ColorScheme-ButtonHover {
+            color:#3daee9;
+            stop-color:#3daee9;
+        }
+        .ColorScheme-ButtonFocus{
+            color:#3daee9;
+            stop-color:#3daee9;
+        }</style>
+ <g transform="translate(-19 1)" style="">
+  <rect id="hint-tile-center" x="65" y="-3" width="2" height="2" rx="2.0771" fill="#4e9a06"/>
+  <rect id="private-hint-show-separator" x="-13.876" y="45.776" width="2" height="2" rx="2.0771" ry="2.0771" fill="#00f" opacity=".1"/>
+  <g id="mouseover-slider-top" transform="translate(1 23)" style="">
+   <rect class="ColorScheme-ButtonText" x="28" y="7" width="3" height="3" fill="currentColor" opacity=".45"/>
+  </g>
+  <g id="mouseover-slider-topleft" transform="translate(1 23)" style="">
+   <path class="ColorScheme-ButtonText" d="m27 7c-1.6569 0-3 1.3431-3 3h3z" fill="currentColor" opacity=".45"/>
+  </g>
+  <g id="mouseover-slider-topright" transform="translate(1 23)" style="">
+   <path class="ColorScheme-ButtonText" d="m32 7c1.6569 0 3 1.3431 3 3h-3z" fill="currentColor" opacity=".45"/>
+  </g>
+  <g id="mouseover-slider-bottom" transform="translate(1 23)" style="">
+   <rect class="ColorScheme-ButtonText" x="28" y="15" width="3" height="3" fill="currentColor" opacity=".45"/>
+  </g>
+  <g id="mouseover-slider-bottomleft" transform="translate(1 23)" style="">
+   <path class="ColorScheme-ButtonText" d="m27 18c-1.6569 0-3-1.3431-3-3h3z" fill="currentColor" opacity=".45"/>
+  </g>
+  <g id="mouseover-slider-bottomright" transform="translate(1 23)" style="">
+   <path class="ColorScheme-ButtonText" d="m32 18c1.6569 0 3-1.3431 3-3h-3z" fill="currentColor" opacity=".45"/>
+  </g>
+  <g id="mouseover-slider-center" style="">
+   <path id="msc" class="ColorScheme-ButtonText" d="m29 34v3h3v-3z" fill="currentColor" opacity=".45"/>
+  </g>
+  <g id="mouseover-slider-left" transform="translate(1 23)" style="">
+   <rect class="ColorScheme-ButtonText" x="24" y="11" width="3" height="3" fill="currentColor" opacity=".45"/>
+  </g>
+  <g id="mouseover-slider-right" transform="translate(1 23)" style="">
+   <rect class="ColorScheme-ButtonText" x="32" y="11" width="3" height="3" fill="currentColor" opacity=".45"/>
+  </g>
+  <g id="background-vertical-top" transform="translate(26 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m28 7v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.2247"/>
+  </g>
+  <g id="background-vertical-topleft" transform="translate(26 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m27 7a3 3 0 0 0-3 3h3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.5"/>
+  </g>
+  <g id="background-vertical-topright" transform="translate(26 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m32 7a3 3 0 0 1 3 3h-3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.5"/>
+  </g>
+  <g id="background-vertical-bottom" transform="translate(26 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m28 15v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.2247"/>
+  </g>
+  <g id="background-vertical-bottomleft" transform="translate(26 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m27 18a3 3 0 0 1-3-3h3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.5"/>
+  </g>
+  <g id="background-vertical-bottomright" transform="translate(26 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m32 18a3 3 0 0 0 3-3h-3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.5"/>
+  </g>
+  <g id="background-vertical-center" style="">
+   <path class="ColorScheme-ButtonText" d="m54 9v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".09"/>
+  </g>
+  <g id="background-vertical-left" transform="translate(26 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m24 11v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.2247"/>
+  </g>
+  <g id="background-vertical-right" transform="translate(26 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m32 11v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.2247"/>
+  </g>
+  <g id="slider-top" transform="translate(1 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m28 7v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".25"/>
+  </g>
+  <g id="slider-topleft" transform="matrix(1.5,0,0,1.5,-12.5,-7)">
+   <path class="ColorScheme-ButtonText" d="m27 8a2 2 0 0 0-2 2h2z" fill="currentColor" opacity=".25"/>
+  </g>
+  <g id="slider-topright" transform="translate(1 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m32 7a3 3 0 0 1 3 3h-3z" fill="currentColor" fill-rule="evenodd" opacity=".25"/>
+  </g>
+  <g id="slider-bottom" transform="translate(1 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m28 15v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".25"/>
+  </g>
+  <g id="slider-bottomleft" transform="translate(1 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m27 18a3 3 0 0 1-3-3h3z" fill="currentColor" fill-rule="evenodd" opacity=".25"/>
+  </g>
+  <g id="slider-bottomright" transform="translate(1 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m32 18a3 3 0 0 0 3-3h-3z" fill="currentColor" fill-rule="evenodd" opacity=".25"/>
+  </g>
+  <g id="slider-center" style="">
+   <path class="ColorScheme-ButtonText" d="m29 9v3h3v-3z" fill="currentColor" opacity=".25"/>
+  </g>
+  <g id="slider-left" transform="translate(1 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m24 11v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".25"/>
+  </g>
+  <g id="slider-right" transform="translate(1 -2)" style="">
+   <path class="ColorScheme-ButtonText" d="m32 11v3h3v-3z" fill="currentColor" opacity=".25"/>
+  </g>
+  <g id="background-horizontal-top" transform="translate(26 23)" style="">
+   <path class="ColorScheme-ButtonText" d="m28 7v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.2247"/>
+  </g>
+  <g id="background-horizontal-topleft" transform="translate(26 23)" style="">
+   <path class="ColorScheme-ButtonText" d="m27 7a3 3 0 0 0-3 3h3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.5"/>
+  </g>
+  <g id="background-horizontal-topright" transform="translate(26 23)" style="">
+   <path class="ColorScheme-ButtonText" d="m32 7a3 3 0 0 1 3 3h-3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.5"/>
+  </g>
+  <g id="background-horizontal-bottom" transform="translate(26 23)" style="">
+   <path class="ColorScheme-ButtonText" d="m28 15v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.2247"/>
+  </g>
+  <g id="background-horizontal-bottomleft" transform="translate(26 23)" style="">
+   <path class="ColorScheme-ButtonText" d="m27 18a3 3 0 0 1-3-3h3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.5"/>
+  </g>
+  <g id="background-horizontal-bottomright" transform="translate(26 23)" style="">
+   <path class="ColorScheme-ButtonText" d="m32 18a3 3 0 0 0 3-3h-3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.5"/>
+  </g>
+  <g id="background-horizontal-center" style="">
+   <path class="ColorScheme-ButtonText" d="m54 34v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".09"/>
+  </g>
+  <g id="background-horizontal-left" transform="translate(26 23)" style="">
+   <path class="ColorScheme-ButtonText" d="m24 11v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.2247"/>
+  </g>
+  <g id="background-horizontal-right" transform="translate(26 23)" style="">
+   <path class="ColorScheme-ButtonText" d="m32 11v3h3v-3z" fill="currentColor" fill-rule="evenodd" opacity=".09" stroke-width="1.2247"/>
+  </g>
+  <rect id="background-horizontal-hint-right-inset" x="61" y="34" width="6" height="3" fill="#0ff" fill-rule="evenodd" opacity=".5"/>
+  <rect id="background-horizontal-hint-top-inset" x="54" y="24" width="3" height="6" fill="#0ff" fill-rule="evenodd" opacity=".5"/>
+  <rect id="background-horizontal-hint-left-inset" x="44" y="34" width="6" height="3" fill="#0ff" fill-rule="evenodd" opacity=".5"/>
+  <rect id="background-horizontal-hint-bottom-inset" x="54" y="41" width="3" height="6" fill="#0ff" fill-rule="evenodd" opacity=".5"/>
+  <rect id="background-vertical-hint-right-inset" x="61" y="9" width="6" height="3" fill="#0ff" fill-rule="evenodd" opacity=".5"/>
+  <rect id="background-vertical-hint-top-inset" x="54" y="-1" width="3" height="6" fill="#0ff" fill-rule="evenodd" opacity=".5"/>
+  <rect id="background-vertical-hint-left-inset" x="44" y="9" width="6" height="3" fill="#0ff" fill-rule="evenodd" opacity=".5"/>
+  <rect id="background-vertical-hint-bottom-inset" x="54" y="16" width="3" height="6" fill="#0ff" fill-rule="evenodd" opacity=".5"/>
+  <rect id="slider-hint-right-inset" x="36" y="9" width="6" height="3" fill="#f0f" fill-rule="evenodd" opacity=".5"/>
+  <rect id="slider-hint-top-inset" x="29" y="-1" width="3" height="6" fill="#f0f" fill-rule="evenodd" opacity=".5"/>
+  <rect id="slider-hint-left-inset" x="19" y="9" width="6" height="3" fill="#f0f" fill-rule="evenodd" opacity=".5"/>
+  <rect id="slider-hint-bottom-inset" x="29" y="16" width="3" height="6" fill="#f0f" fill-rule="evenodd" opacity=".5"/>
+  <rect id="mouseover-slider-hint-right-inset" x="36" y="34" width="6" height="3" fill="#f0f" fill-rule="evenodd" opacity=".5"/>
+  <rect id="mouseover-slider-hint-top-inset" x="29" y="24" width="3" height="6" fill="#f0f" fill-rule="evenodd" opacity=".5"/>
+  <rect id="mouseover-slider-hint-left-inset" x="19" y="34" width="6" height="3" fill="#f0f" fill-rule="evenodd" opacity=".5"/>
+  <rect id="mouseover-slider-hint-bottom-inset" x="29" y="41" width="3" height="6" fill="#f0f" fill-rule="evenodd" opacity=".5"/>
+  <rect id="hint-scrollbar-size" x="71" y="3" width="6" height="6" fill="#ff0000" fill-rule="evenodd"/>
+ </g>
+</svg>

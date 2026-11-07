@@ -1,0 +1,10 @@
+<svg width="22" height="22">
+ <defs id="defs7386">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+ </defs>
+ <g id="kget">
+  <path id="path826" d="m11 2a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm-2 3h4v7h3l-5 6-5-6h3v-7z" class="ColorScheme-Text" fill="currentColor"/>
+  <path id="rect4139" d="m0.25 0h21.5c0.1385 0 0.25 0.1115 0.25 0.25v21.5c0 0.1385-0.11151 0.25-0.25 0.25h-21.5c-0.1385 0-0.25-0.1115-0.25-0.25v-21.5c0-0.1385 0.11151-0.25 0.25-0.25z" opacity="0"/>
+  <path id="path5972" class="ColorScheme-Text" d="m9 10v2h-3l5 6 5-6h-3v-2s-1 0.58263-2 0c-1-0.58263-1.4149-0.2447-2 0z" fill="currentColor" opacity=".15"/>
+ </g>
+</svg>

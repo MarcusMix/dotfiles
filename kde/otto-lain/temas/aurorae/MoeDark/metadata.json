@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "gicalucejo@gmail.com",
+                "Name": "jomada"
+            }
+        ],
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "MoeDark",
+        "Description" : "MoeDark window decorations",
+        "Id": "MoeDark",
+        "Version": "1.9",
+        "License": "GPL_V3",
+        "X-KDE-PluginInfo-blur": false,
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 50 50"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#4d80f7" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1.06667" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" transform="matrix(0.0548336,0,0,-0.0548338,-0.559759,50.5641)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M466.138,10.2875 C717.934,10.2875 922.059,214.413 922.059,466.208 C922.059,718.009 717.934,922.133 466.138,922.133 C214.334,922.133 10.2083,718.009 10.2083,466.208 C10.2083,214.413 214.334,10.2875 466.138,10.2875 Z "/>
+</g>
+
+<g fill="#0c65f7" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1.06667" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" transform="matrix(0.0548336,0,0,-0.0548338,-0.559759,50.5641)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M466.138,49.0625 C696.521,49.0625 883.283,235.829 883.283,466.208 C883.283,696.596 696.521,883.358 466.138,883.358 C235.75,883.358 48.9875,696.596 48.9875,466.208 C48.9875,235.829 235.75,49.0625 466.138,49.0625 Z "/>
+</g>
+
+<g fill="#363a4f" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1.06667" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" transform="matrix(0.0548336,0,0,-0.0548338,-0.559759,50.5641)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M342.791,698.854 L627.804,698.854 C665.755,698.854 696.809,667.804 696.809,629.85 L696.809,344.842 L342.791,698.854 Z M590.604,233.567 L304.467,233.567 C266.512,233.567 235.462,264.617 235.462,302.571 L235.462,588.708 L590.604,233.567 Z "/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>

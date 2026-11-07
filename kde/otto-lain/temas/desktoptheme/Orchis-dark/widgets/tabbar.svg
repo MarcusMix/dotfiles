@@ -1,0 +1,139 @@
+<svg width="360" height="300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <rect id="hint-tile-center" x="30" y="30" width="40" height="40" fill="#008000" opacity=".875"/>
+ <g id="west-active-tab-top" transform="matrix(.8125 0 0 .83333 59.56 -597.63)">
+  <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-916.36" y="-51" width="7.2003" height="32" fill="#ffffff" opacity=".15" stroke-width="1.0955"/>
+ </g>
+ <g id="west-active-tab-topleft" transform="matrix(.41667 0 0 .41667 63.58 -218.32)">
+  <path d="m25 907.96c-7.9772 0-14.399 6.4221-14.399 14.399h14.399v-11.999z" fill="#ffffff" opacity=".15" stroke-width="1.1999"/>
+ </g>
+ <g id="west-active-tab-topright" transform="matrix(.41667 0 0 .41667 83.25 -218.32)">
+  <path d="m45 907.96v14.399h14.399c0-7.9768-6.4218-14.399-14.399-14.399z" fill="#ffffff" opacity=".15" stroke-width="1.1999"/>
+ </g>
+ <g id="west-active-tab-bottom" transform="matrix(.8125 0 0 .83334 59.56 -602.3)">
+  <rect class="ColorScheme-Background" transform="rotate(90)" x="948.36" y="-51" width="7.1924" height="32" fill="#ffffff" opacity=".15" stroke-width="1.0949"/>
+ </g>
+ <g id="west-active-tab-bottomleft" transform="matrix(.41667 0 0 .41666 63.58 -204.64)">
+  <path d="m10.618 942.36c0 7.9678 6.4145 14.382 14.382 14.382v-14.382h-11.985z" fill="#ffffff" opacity=".15" stroke-width="1.1985"/>
+ </g>
+ <g id="west-active-tab-bottomright" transform="matrix(.41667 0 0 .41667 83.25 -204.65)">
+  <path d="m45 942.36v14.385c7.9692 0 14.385-6.4156 14.385-14.385h-11.987z" fill="#ffffff" opacity=".15" stroke-width="1.1987"/>
+ </g>
+ <g id="west-active-tab-left" transform="matrix(.83333 0 0 .625 58.17 -405.73)">
+  <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-19" y="916.36" width="7.204" height="32" fill="#ffffff" opacity=".15" stroke-width="1.0958"/>
+ </g>
+ <g id="west-active-tab-right" transform="matrix(.83333 0 0 .625 59.5 -405.73)">
+  <rect class="ColorScheme-Background" x="51" y="916.36" width="7.2002" height="32" fill="#ffffff" opacity=".15" stroke-width="1.0955"/>
+ </g>
+ <rect id="west-active-tab-center" class="ColorScheme-Background" x="75" y="167" width="26" height="20" fill="#ffffff" opacity=".15"/>
+ <rect id="west-focus-hint-right-margin" transform="scale(-1)" x="-108" y="-178" width="6" height="2" fill="#4e9a06" stroke-width="1.0954"/>
+ <rect id="west-focus-hint-left-margin" transform="scale(-1)" x="-74" y="-178" width="6" height="2" fill="#4e9a06" stroke-width="1.0954"/>
+ <rect id="west-focus-hint-bottom-margin" transform="scale(-1)" x="-89" y="-194" width="2" height="6" fill="#4e9a06" stroke-width="1.0954"/>
+ <rect id="west-focus-hint-top-margin" transform="scale(-1)" x="-89" y="-166" width="2" height="6" fill="#4e9a06" stroke-width="1.0954"/>
+ <g id="north-active-tab-top" transform="matrix(.8125 0 0 .83333 140.56 -656.63)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-916.36" y="-51" width="10.8" height="32" fill="none"/>
+  <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-916.36" y="-51" width="7.2003" height="32" color="#eff0f1" fill="#ffffff" opacity=".15" stroke-width="1.0955"/>
+ </g>
+ <g id="north-active-tab-topleft" transform="matrix(.41667 0 0 .41667 144.58 -277.32)">
+  <path d="m10.608 900.76-0.007203 21.599h14.399l0.0078-21.599z" fill="none" stroke-width="1.2248"/>
+  <path d="m25 907.96c-7.9772 0-14.399 6.4221-14.399 14.399h14.399v-11.999z" fill="#ffffff" opacity=".15"/>
+ </g>
+ <g id="north-active-tab-left" transform="matrix(.83333 0 0 .625 139.17 -464.73)">
+  <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-19" y="916.36" width="7.204" height="32" color="#eff0f1" fill="#ffffff" opacity=".15" stroke-width="1.0958"/>
+ </g>
+ <g id="north-active-tab-right" transform="matrix(.83333 0 0 .625 140.5 -464.73)">
+  <rect class="ColorScheme-Background" x="51" y="916.36" width="7.2002" height="32" color="#eff0f1" fill="#ffffff" opacity=".15" stroke-width="1.0955"/>
+ </g>
+ <rect id="north-active-tab-center" class="ColorScheme-Background" x="156" y="108" width="26" height="20" color="#eff0f1" fill="#ffffff" opacity=".15"/>
+ <rect id="north-focus-hint-right-margin" transform="scale(-1)" x="-189" y="-119" width="6" height="2" fill="#4e9a06"/>
+ <rect id="north-focus-hint-left-margin" transform="scale(-1)" x="-155" y="-119" width="6" height="2" fill="#4e9a06"/>
+ <use id="north-active-tab-bottom" transform="matrix(1 0 0 -1 .002509 236)" xlink:href="#north-active-tab-top"/>
+ <rect id="north-focus-hint-bottom-margin" transform="scale(-1)" x="-170" y="-135" width="2" height="6" fill="#4e9a06" stroke-width="1.0954"/>
+ <rect id="north-focus-hint-top-margin" transform="scale(-1)" x="-170" y="-107" width="2" height="6" fill="#4e9a06" stroke-width="1.0954"/>
+ <g id="south-active-tab-top" transform="matrix(.8125 0 0 .83333 141.56 -549.63)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-916.36" y="-51" width="10.8" height="32" fill="none" stroke-width="1.0607"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-916.36" y="-51" width="7.2003" height="32" fill="#ffffff" opacity=".15"/>
+ </g>
+ <g id="south-active-tab-topleft" transform="matrix(.41667 0 0 .41667 145.58 -170.32)">
+  <rect x="10.608" y="900.76" width="14.4" height="21.6" rx="0" ry="0" fill="none" stroke-width="1.0607"/>
+  <path d="m25 907.96c-7.9772 0-14.399 6.4221-14.399 14.399h14.399v-11.999z" fill="#ffffff" opacity=".15"/>
+ </g>
+ <g id="south-active-tab-left" transform="matrix(.83333 0 0 .625 140.17 -357.73)">
+  <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-19" y="916.36" width="7.204" height="32" color="#eff0f1" fill="#ffffff" opacity=".15" stroke-width="1.0958"/>
+ </g>
+ <g id="south-active-tab-right" transform="matrix(.83333 0 0 .625 141.5 -357.73)">
+  <rect class="ColorScheme-Background" x="51" y="916.36" width="7.2002" height="32" color="#eff0f1" fill="#ffffff" opacity=".15" stroke-width="1.0955"/>
+ </g>
+ <rect id="south-active-tab-center" class="ColorScheme-Background" x="157" y="215" width="26" height="20" color="#eff0f1" fill="#ffffff" opacity=".15"/>
+ <rect id="south-focus-hint-right-margin" transform="scale(-1)" x="-190" y="-226" width="6" height="2" fill="#4e9a06" stroke-width="1.0954"/>
+ <rect id="south-focus-hint-left-margin" transform="scale(-1)" x="-156" y="-226" width="6" height="2" fill="#4e9a06" stroke-width="1.0954"/>
+ <use id="south-active-tab-bottom" transform="rotate(180 170 225)" xlink:href="#south-active-tab-top"/>
+ <rect id="south-focus-hint-bottom-margin" transform="scale(-1)" x="-171" y="-242" width="2" height="6" fill="#4e9a06" stroke-width="1.0954"/>
+ <rect id="south-focus-hint-top-margin" transform="scale(-1)" x="-171" y="-214" width="2" height="6" fill="#4e9a06" stroke-width="1.0954"/>
+ <g id="east-active-tab-top" transform="matrix(.8125 0 0 .83333 221.56 -600.63)">
+  <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-916.36" y="-51" width="7.2003" height="32" color="#eff0f1" fill="#ffffff" opacity=".15" stroke-width="1.0955"/>
+ </g>
+ <g id="east-active-tab-topleft" transform="matrix(.41667 0 0 .41667 225.58 -221.32)">
+  <path d="m25 907.96c-7.9772 0-14.399 6.4221-14.399 14.399h14.399v-11.999z" fill="#ffffff" opacity=".15" stroke-width="1.1999"/>
+ </g>
+ <g id="east-active-tab-topright" transform="matrix(.41667 0 0 .41667 245.25 -221.32)">
+  <path d="m45 907.96v14.399h14.399c0-7.9768-6.4218-14.399-14.399-14.399z" fill="#ffffff" opacity=".15" stroke-width="1.1999"/>
+ </g>
+ <g id="east-active-tab-bottom" transform="matrix(.8125 0 0 .83334 221.56 -605.3)">
+  <rect class="ColorScheme-Background" transform="rotate(90)" x="948.36" y="-51" width="7.1924" height="32" color="#eff0f1" fill="#ffffff" opacity=".15" stroke-width="1.0949"/>
+ </g>
+ <g id="east-active-tab-bottomleft" transform="matrix(.41667 0 0 .41666 225.58 -207.64)">
+  <path d="m10.618 942.36c0 7.9678 6.4145 14.382 14.382 14.382v-14.382h-11.985z" fill="#ffffff" opacity=".15" stroke-width="1.1985"/>
+ </g>
+ <g id="east-active-tab-bottomright" transform="matrix(.41667 0 0 .41667 245.25 -207.65)">
+  <path d="m45 942.36v14.385c7.9692 0 14.385-6.4156 14.385-14.385h-11.987z" fill="#ffffff" opacity=".15" stroke-width="1.1987"/>
+ </g>
+ <g id="east-active-tab-left" transform="matrix(.83333 0 0 .625 220.17 -408.73)">
+  <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-19" y="916.36" width="7.204" height="32" color="#eff0f1" fill="#ffffff" opacity=".15" stroke-width="1.0958"/>
+ </g>
+ <g id="east-active-tab-right" transform="matrix(.83333 0 0 .625 221.5 -408.73)">
+  <rect class="ColorScheme-Background" x="51" y="916.36" width="7.2002" height="32" color="#eff0f1" fill="#ffffff" opacity=".15" stroke-width="1.0955"/>
+ </g>
+ <rect id="east-active-tab-center" class="ColorScheme-Background" x="237" y="164" width="26" height="20" color="#eff0f1" fill="#ffffff" opacity=".15"/>
+ <rect id="east-focus-hint-right-margin" transform="scale(-1)" x="-270" y="-175" width="6" height="2" fill="#4e9a06" stroke-width="1.0954"/>
+ <rect id="east-focus-hint-left-margin" transform="scale(-1)" x="-236" y="-175" width="6" height="2" fill="#4e9a06" stroke-width="1.0954"/>
+ <rect id="east-focus-hint-bottom-margin" transform="scale(-1)" x="-251" y="-191" width="2" height="6" fill="#4e9a06" stroke-width="1.0954"/>
+ <rect id="east-focus-hint-top-margin" transform="scale(-1)" x="-251" y="-163" width="2" height="6" fill="#4e9a06" stroke-width="1.0954"/>
+ <use id="south-active-tab-topright" transform="matrix(-1 0 0 1 340 .00023958)" xlink:href="#south-active-tab-topleft"/>
+ <use id="south-active-tab-bottomright" transform="rotate(180 170 225)" xlink:href="#south-active-tab-topleft"/>
+ <use id="south-active-tab-bottomleft" transform="matrix(1 0 0 -1 1.3366e-6 450)" xlink:href="#south-active-tab-topleft"/>
+ <use id="north-active-tab-topright" transform="matrix(-1 0 0 1 338 .00022958)" xlink:href="#north-active-tab-topleft"/>
+ <use id="north-active-tab-bottomright" transform="rotate(180 169 118)" xlink:href="#north-active-tab-topleft"/>
+ <use id="north-active-tab-bottomleft" transform="matrix(1 0 0 -1 .0032598 236)" xlink:href="#north-active-tab-topleft"/>
+</svg>

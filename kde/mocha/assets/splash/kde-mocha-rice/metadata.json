@@ -1,0 +1,13 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [ { "Name": "kde-mocha-rice" } ],
+        "Category": "",
+        "Description": "Tela de inicialização Catppuccin Mocha com lua animada",
+        "Id": "kde-mocha-rice",
+        "License": "GPL-3.0",
+        "Name": "Mocha Rice (splash)",
+        "Version": "1.0"
+    },
+    "X-Plasma-APIVersion": "2"
+}

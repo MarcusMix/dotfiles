@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <style type="text/css" id="current-color-scheme">
+    .ColorScheme-Highlight{color:#cba6f7;}
+    .ColorScheme-Text{color:#cdd6f4;}
+  </style>
+  <defs>
+    <mask id="lua">
+      <rect width="64" height="64" fill="#fff"/>
+      <circle cx="41" cy="24" r="19" fill="#000"/>
+    </mask>
+  </defs>
+  <!-- lua crescente na cor de destaque -->
+  <circle cx="30" cy="34" r="24" class="ColorScheme-Highlight" style="fill:currentColor" mask="url(#lua)"/>
+  <!-- estrela de quatro pontas -->
+  <path d="M47 6 Q48.6 13.4 56 15 Q48.6 16.6 47 24 Q45.4 16.6 38 15 Q45.4 13.4 47 6 Z" class="ColorScheme-Text" style="fill:currentColor"/>
+</svg>

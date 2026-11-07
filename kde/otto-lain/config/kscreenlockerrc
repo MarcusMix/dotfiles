@@ -1,0 +1,7 @@
+[Daemon]
+Autolock=false
+Timeout=0
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=@WALLPAPER@
+PreviewImage=@WALLPAPER@

@@ -1,0 +1,56 @@
+<svg width="50" height="20" version="1.1" viewBox="0 0 50 20" xmlns="http://www.w3.org/2000/svg">
+ <g id="radiobutton" transform="translate(0,-23)">
+  <path d="m10 24c-4.968 0-9 4.032-9 9s4.032 9 9 9 9-4.032 9-9-4.032-9-9-9z" fill="#ffffff" stroke-width=".9"/>
+  <path d="m10 23c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10-4.48-10-10-10zm0 7c1.656 0 3 1.344 3 3s-1.344 3-3 3-3-1.344-3-3 1.344-3 3-3z" fill="#81c995"/>
+ </g>
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3281ea;
+        stop-color:#3281ea;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3281ea;
+        stop-color:#3281ea;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3281ea;
+        stop-color:#3281ea;
+      }</style>
+ </defs>
+ <g id="checkbox" transform="translate(-21)">
+  <path d="m57 1c-4.968 0-9 4.032-9 9s4.032 9 9 9 9-4.032 9-9-4.032-9-9-9z" fill="#ffffff" stroke-width=".9"/>
+  <path d="m57 0c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10-4.48-10-10-10zm5.5898 4.5801 1.4102 1.4199-9 9-5-5 1.4102-1.4102 3.5898 3.5801z" fill="#81c995"/>
+ </g>
+</svg>

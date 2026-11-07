@@ -1,0 +1,16 @@
+{
+  "KPlugin": {
+    "Id": "mocha-glass",
+    "Name": "Mocha Glass",
+    "Description": "Vidro fosco com cantos arredondados — kde-mocha-rice",
+    "Authors": [
+      {
+        "Name": "kde-mocha-rice"
+      }
+    ],
+    "License": "GPL-3.0",
+    "Version": "1.0",
+    "Website": "https://github.com/"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}

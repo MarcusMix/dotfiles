@@ -1,0 +1,16 @@
+<svg width="22" height="22" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+ </defs>
+ <g id="touchpad_enabled">
+  <path d="m0 0h22v22h-22v-22z" opacity="0"/>
+  <path d="m4 5.0034c-1 0-1 1-1 1v11s0 1 1 1h13s1 0 1-1v-11c0-1-1-1-1-1zm1 2h11v6h-11zm0 7h5v2h-5zm6 0h5v2h-5z" class="ColorScheme-Text" fill="currentColor"/>
+ </g>
+ <g id="touchpad_disabled" transform="translate(0 24.423)">
+  <path d="m0 0h22v22h-22v-22z" opacity="0"/>
+  <g transform="rotate(90 272 214)" enable-background="new" filter="url(#filter7554)">
+   <rect x="61" y="467" width="16" height="16" fill="none"/>
+   <path transform="rotate(-90 195 472)" d="m185 340c-1 0-1 1-1 1v11s0 1 1 1h13s1 0 1-1v-11c0-1-1-1-1-1zm1 2h11v6h-11zm0 7h5v2h-5zm6 0h5v2h-5z" class="ColorScheme-Text" fill="currentColor" opacity=".5"/>
+  </g>
+ </g>
+</svg>

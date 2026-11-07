@@ -1,0 +1,15 @@
+[Desktops]
+Id_1=641f8f2f-7dd5-4633-9127-bbb1b76324e0
+Number=1
+Rows=1
+
+[Tiling][641f8f2f-7dd5-4633-9127-bbb1b76324e0][87d93b2c-e196-41a1-a970-555bcf7eddad]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Xwayland]
+Scale=1
+
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae.v2
+theme=__aurorae__svg__MoeDark
